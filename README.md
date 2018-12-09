@@ -10,15 +10,13 @@ es11_cicli.php --> Fornita una password in input determinarne il grado di robust
  - media: minore di 10 caratteri; 
  - medio-alta: maggiore di 10 caratteri con maiuscola, minuscola, numero; 
  - forte: maggiore di 10 caratteri con con maiuscola, minuscola, numero, carattere speciale tra @ & % #.
- 
- **Esercizio svolto con l'utilizzo dei cicli.**
+  **Esercizio svolto con l'utilizzo dei cicli.**
  
  es11_reg_exp.php --> Fornita una password in input determinarne il grado di robustezza 
  - debole: minore di otto carattere; 
  - media: minore di 10 caratteri; 
  - medio-alta: maggiore di 10 caratteri con maiuscola, minuscola, numero; 
  - forte: maggiore di 10 caratteri con con maiuscola, minuscola, numero, carattere speciale tra @ & % #.
- 
- **Esercizio svolto con l'utilizzo delle espressioni regolari.**
+  **Esercizio svolto con l'utilizzo delle espressioni regolari.**
  
  
