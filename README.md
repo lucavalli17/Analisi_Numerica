@@ -1,6 +1,10 @@
 # Esercizi svolti di analisi Numerica 
 Esercizi di analisi numerica svolti relativi al programma di informatica del quinto anno di Liceo Scientifico opzione Scienze Applicate.
 
+es06.php --> Organizzare una webapp che cifra un messaggio con l'algoritmo di Cesare 
+
+es07.php --> Organizzare una webapp che decifra un messaggio con l'algoritmo di Cesare 
+
 es08.php --> Organizzare una webapp che implementa il crivello  di Eratostene per ottenere i numeri primi compresi tra 1 e n. n fornito dall'utente
 
 es09.php --> Riusando la webapp del crivello di Eratostene (vedi es08.php) scomporre in fattori primi un numero dato.
