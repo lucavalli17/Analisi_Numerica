@@ -23,6 +23,6 @@ es11_cicli.php --> Fornita una password in input determinarne il grado di robust
  - forte: maggiore di 10 caratteri con con maiuscola, minuscola, numero, carattere speciale tra @ & % #.
   **Esercizio svolto con l'utilizzo delle espressioni regolari.**
   
-  es12.php --> Fornito in input un numero compreso tra 1 e 1000 produrre in outuput la sua trascrizione letterale (con controllo eccezioni)
+  es12.php --> Fornito in input un numero compreso tra 0 e 1000 produrre in outuput la sua trascrizione letterale (con controllo eccezioni)
  
  
