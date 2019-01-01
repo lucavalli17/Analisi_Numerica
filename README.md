@@ -1,4 +1,4 @@
-# Esercizi svolti di analisi Numerica 
+# Esercizi svolti di analisi numerica 
 Esercizi di analisi numerica svolti relativi al programma di informatica del quinto anno di Liceo Scientifico opzione Scienze Applicate.
 
 es06.php --> Organizzare una webapp che cifra un messaggio con l'algoritmo di Cesare 
