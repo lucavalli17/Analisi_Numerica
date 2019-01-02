@@ -82,10 +82,7 @@
                         $risultato = $decine_lettere[$posizione];
                     }
 
-                    # CONTROLLO SE IL NUMERO SI TROVA TRA 11 E 19 (FANNO TUTTI ECCEZIONE) #
-                    elseif ($numero > 10 AND $numero < 20 AND $posizione = array_search($numero, $numeri_speciali_2)){
-                        $risultato = $speciali_2[$posizione];
-                    }
+                    # IL CONTROLLO SE IL NUMERO SI TROVA TRA 11 E 19 VIENE FATTO IN PRECEDENZA DALLA RIGA 49 #
 
                     elseif ($numero > 20){ 
                         $risultato = $decine_lettere[$prima_cifra].$unità_lettere[$seconda_cifra]; 
@@ -108,7 +105,7 @@
                         $risultato = $unità_lettere[$posizione]."cento";
                     }
 
-                    # CONTROLLO SE IL NUMERO E' COMPRESO TRA 101 E 199 (caso particolare, non va nulla dopo "- cento") #
+                    # CONTROLLO SE IL NUMERO E' COMPRESO TRA 101 E 199 (caso particolare, non va nulla prima di "- cento") #
                     elseif($numero > 100 AND $numero < 200 AND $posizione = array_search($prima_cifra, $unità)){
                         $risultato = "cento".$decine_lettere[$seconda_cifra].$unità_lettere[$terza_cifra];
                     }
