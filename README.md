@@ -24,5 +24,17 @@ es11_cicli.php --> Fornita una password in input determinarne il grado di robust
   **Esercizio svolto con l'utilizzo delle espressioni regolari.**
   
   es12.php --> Fornito in input un numero compreso tra 0 e 1000 produrre in outuput la sua trascrizione letterale (con controllo eccezioni)
+  
+  es16.php --> Fornita una frase invertire specularmente le simgole parole. Es. "questo problema è difficile"  diventa "otseuq amelborp è eliciffid"
+  
+  es17.php --> Dato un numero > 10000 con un numero pari ci cifre,  usando i procedimenti dell'aritmetica, scambiare la prima cifra con la seconda, la seconda con la prima, la terza con la quarta ecc. es 457812 diventa 548721
+  
+  es18.php --> Date due targhe automobilistiche italiane estrarre tutte le cifre numeriche che contienngono e verificare se i due numeri ottenuti (uno per ogni targa) sono amicali
+  
+  es21.php --> Rappresentare l'algoritmo risolutivo del problema: data una frase in cui le vocali accentate sono scritte nella forma citta'; casino';  ottenere una nuova frase in cui le accentate di fine parola sono epresse con i caratteri accentati città; casinò, ecc. La frase deve contenere un numero dispari di parole.
+  
+  
+  
+  
  
  
